@@ -10,5 +10,6 @@
 3. Data Sets:
    - M1ExploreDataSet-lab.ipynb
    - M2DataWrangling-lab.ipynb
+   - M3ExploratoryDataAnalysis-lab.ipynb
 4. 
 
