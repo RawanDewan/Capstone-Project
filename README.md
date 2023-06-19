@@ -7,5 +7,8 @@
    - Web-Scraping-Lab.ipynb
    - popular-languages.csv
    - popular-languages.xlsx
-3. M1ExploreDataSet-lab.ipynb
+3. Data Wrangling:
+   - M1ExploreDataSet-lab.ipynb
+   - M2DataWrangling-lab.ipynb
 4. 
+
