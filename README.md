@@ -11,5 +11,6 @@
    - M1ExploreDataSet-lab.ipynb
    - M2DataWrangling-lab.ipynb
    - M3ExploratoryDataAnalysis-lab.ipynb
+   - M4DataVisualization-lab.ipynb
 4. 
 
